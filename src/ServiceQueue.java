@@ -2,11 +2,11 @@ import java.util.NoSuchElementException;
 
 /**
  * ServiceQueue.java
- * MEMBER 2 RESPONSIBILITY (Part B): Queue implementation.
- *
+ * Author: [Your Full Name] - [Your Student ID]
+ * Member 2 Responsibility: Queue implementation for student service requests. 
  * Requirement 4: "Use a queue to manage student service requests in order
  * of arrival."
- *
+ 
  * Implemented as a custom circular array-based queue (FIFO) to clearly
  * demonstrate enqueue/dequeue mechanics rather than relying on java.util.Queue.
  */

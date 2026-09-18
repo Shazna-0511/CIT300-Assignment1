@@ -1,4 +1,5 @@
 /**
+ * Author: MMF.Shazna - 23DA2-0639
  * StudentBST.java
  * MEMBER 3 RESPONSIBILITY (Part A): BST/AVL tree implementation.
  *
@@ -6,10 +7,7 @@
  * by Student ID or another suitable key."
  *
  * This is a standard (unbalanced) Binary Search Tree keyed on Student ID.
- * (If your lecturer specifically requires AVL self-balancing, tell me and
- * I will extend this class with left/right rotations and height balancing -
- * the menu-facing behaviour stays identical either way.)
- */
+ **/
 public class StudentBST {
 
     private static class TreeNode {

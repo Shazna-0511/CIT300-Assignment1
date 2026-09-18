@@ -13,7 +13,13 @@ import java.util.*;
  *  - Supports both BFS and DFS traversal.
  *
  * The graph is undirected (a road connects both ways) and unweighted.
- */
+ */ 
+/**
+*	Author:	[Jawahidu Fathima Rifna]	-	[23da-0842]
+*	Member	4	Responsibility:	Graph	implementation,	campus	locations,
+*	connections,	and	BFS/DFS	traversal.
+*/
+
 public class CampusGraph {
 
     // adjacency list: location name -> set of directly connected locations

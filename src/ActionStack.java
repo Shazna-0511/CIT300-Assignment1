@@ -1,11 +1,10 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.EmptyStackException;
-
 /**
  * ActionStack.java
- * MEMBER 2 RESPONSIBILITY (Part A): Stack implementation.
- *
+ * Author: M.F.F Zainab - 23DA2-0874
+ * Member 2 Responsibility: Stack implementation for recent actions/history.
  * Requirement 3: "Use a stack to maintain recent actions, deleted records,
  * or an undo/history feature."
  *

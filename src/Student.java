@@ -1,7 +1,6 @@
 /**
 * Author: RamlaRishad - 23DA2-0925
-* Member 1 Responsibility: Linked list implementation and studentrecord
-management.
+* Member 1 Responsibility: Linked list implementation and studentrecord management.
 */
 public class Student {
     private String studentId;

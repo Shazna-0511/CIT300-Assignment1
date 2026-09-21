@@ -3,8 +3,7 @@
  * Author: RamlaRishad - 23DA2-0925
  * MEMBER 1 RESPONSIBILITY: Linked list implementation and student-record management.
  *
- * Requirement 2: "Use a custom linked list to add, update, delete, search,
- * and display student records (menu options 1–4)."
+ * Requirement 2: "Use a custom linked list to add, update, delete, search,and display student records (menu options 1–4)."
  *
  * Implemented as a custom singly linked list (Node-based, not
  * java.util.LinkedList) so we clearly demonstrate manual pointer handling

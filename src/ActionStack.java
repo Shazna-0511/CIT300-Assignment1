@@ -7,7 +7,7 @@ import java.util.EmptyStackException;
  * Member 2 Responsibility: Stack implementation for recent actions/history.
  * Requirement 3: "Use a stack to maintain recent actions, deleted records,
  * or an undo/history feature."
- *
+
  * Implemented as a custom array-based stack (LIFO) so we clearly demonstrate
  * push/pop mechanics rather than relying on java.util.Stack.
  * Every add/update/delete performed on student records is logged here,

@@ -1,7 +1,14 @@
 /**
  * Student.java
- * Represents a single student record.
- * Used by: Member 1 (LinkedList), Member 3 (BST/Hashing), Member 2 (Stack/Queue references it)
+ * Author: RamlaRishad - 23DA2-0925
+ * Member 1 Responsibility: Linked list implementation and studentrecord management.
+ * 
+ * Requirement 1: "Store student records with ID, Name, Programme, and Marks."
+ * 
+ * Implemented as a simple POJO (Student) holding the four required fields,
+ * with getters/setters (and possibly a toString/equals override) so the
+ * linked list, stack, and search logic can all work with a consistent
+ * student record type across the codebase.
  */
 public class Student {
     private String studentId;

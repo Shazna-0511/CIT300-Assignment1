@@ -1,8 +1,8 @@
 /**
- * Student.java
- * Represents a single student record.
- * Used by: Member 1 (LinkedList), Member 3 (BST/Hashing), Member 2 (Stack/Queue references it)
- */
+* Author: [RamlaRishad] - [23DA2-0925]
+* Member 1 Responsibility: Linked list implementation and studentrecord
+management.
+*/
 public class Student {
     private String studentId;
     private String name;

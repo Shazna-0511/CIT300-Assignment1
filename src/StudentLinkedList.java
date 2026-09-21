@@ -1,5 +1,6 @@
 /**
  * StudentLinkedList.java
+ * Author: RamlaRishad - 23DA2-0925
  * MEMBER 1 RESPONSIBILITY: Linked list implementation and student-record management.
  *
  * Implements a custom singly linked list (no java.util.LinkedList used, since the

@@ -15,10 +15,9 @@ import java.util.*;
  * The graph is undirected (a road connects both ways) and unweighted.
  */ 
 /**
-*	Author:	[Jawahidu Fathima Rifna]	-	[23da-0842]
+*	Author:	Jawahidu Fathima Rifna	- 23da-0842
 *	Member	4	Responsibility:	Graph	implementation,	campus	locations,
-*	connections,	and	BFS/DFS	traversal.
-*/
+*	connections,	and	BFS/DFS	traversal. ...*/
 
 public class CampusGraph {
 
@@ -146,6 +145,6 @@ public class CampusGraph {
     }
 
     public Set<String> getAllLocations() {
-        return adjList.keySet();
+        return Collections.unmodifiableSet(new LinkedHashSet<>(adjList.keySet()));
     }
 }
